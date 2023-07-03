@@ -6,7 +6,7 @@
 - ⌨️ Desarrollador Full Stack
 - 👨‍🏫 Informático
 - 💻 Especializado en Desarrollo de Aplicaciones Web
-- :link: Conéctate conmigo: <a href="https://linkedin.com/in/miguel-angel-ramos-rodr%C3%ADguez-263150115/" target="_blank"><img align="center" src="https://raw.githubusercontent.com/Dhamary08/Email-Sign/master/linkedin-in.png" alt="Miguel Angel Ramos Rodríguez" height="30" width="25"/></a>
+- :link: Conéctate conmigo: <a href="https://www.linkedin.com/in/thony-flores/" target="_blank"><img align="center" src="https://raw.githubusercontent.com/Dhamary08/Email-Sign/master/linkedin-in.png" alt="Anthony Gregory Flores Ramos" height="30" width="25"/></a>
 
 <h3 align="left">Lenguajes y Herramientas :bowtie::</h3>
     <p align="left"> <a href="#" target="_blank"> <img
