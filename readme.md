@@ -26,7 +26,7 @@
                 width="40" height="40" margin-right="3px"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript"
             target="_blank"></a></p>
 <p>
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=Thony091&show_icons=true&locale=en&theme=tokyonight&langs_count5" alt="Thony091" />
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=Thony091&show_icons=true&locale=en&theme=tokyonight&langs_count3" alt="Thony091" />
 &nbsp;
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=Thony091&show_icons=true&locale=en&theme=tokyonight" alt="Thony091" />
 <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Thony091&theme=dark" alt="Thony091" /></p>
