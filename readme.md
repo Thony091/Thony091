@@ -5,7 +5,7 @@
 
 - ⌨️ Desarrollador Full Stack
 - 👨‍🏫 Informático
-- 💻 Especializado en Desarrollo de Aplicaciones Web
+- 💻 Especializado en Desarrollo de Aplicaciones Mobile
 - :link: Conéctate conmigo: <a href="https://www.linkedin.com/in/thony-flores/" target="_blank"><img align="center" src="https://raw.githubusercontent.com/Dhamary08/Email-Sign/master/linkedin-in.png" alt="Anthony Gregory Flores Ramos" height="30" width="25"/></a>
 
 <h3 align="left">Lenguajes y Herramientas :bowtie::</h3>
