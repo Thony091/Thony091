@@ -21,8 +21,8 @@
                 src="https://upload.vectorlogo.zone/logos/javascript/images/239ec8a4-163e-4792-83b6-3f6d96911757.svg" alt="javascript"
                 width="40" height="40" margin-right="3px"/> </a> <a href="https://www.w3schools.com/css/" target="_blank"> <img
                 src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-plain-wordmark.svg" alt="css3"
-                width="40" height="40" margin-right="3px"/> </a> <a href="https://www.w3.org/html/" target="_blank"> <img
-                src="https://www.vectorlogo.zone/util/preview?image=/logos/flutterio/flutterio-icon.svg" alt="flutter"
+                width="40" height="40" margin-right="3px"/> </a> <a href="https://flutter.dev/" target="_blank"> <img
+                src="https://www.vectorlogo.zone/util/preview?image=/logos/flutterio/flutterio-ar21.svg" alt="flutter"
                 width="40" height="40" margin-right="3px"/> </a> <a href="https://flutter.dev/" target="_blank"> <img
                 src="https://www.vectorlogo.zone/logos/w3_html5/w3_html5-icon.svg" alt="html5"
                 width="40" height="40" margin-right="3px"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript"
