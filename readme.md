@@ -21,12 +21,13 @@
                 src="https://upload.vectorlogo.zone/logos/javascript/images/239ec8a4-163e-4792-83b6-3f6d96911757.svg" alt="javascript"
                 width="40" height="40" margin-right="3px"/> </a> <a href="https://www.w3schools.com/css/" target="_blank"> <img
                 src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-plain-wordmark.svg" alt="css3"
-                width="40" height="40" margin-right="3px"/> </a> <a href="https://flutter.dev/" target="_blank"> <img
-                src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter"
-                width="40" height="40" margin-right="3px"/> </a> <a href="https://flutter.dev/" target="_blank"> <img
+                width="40" height="40" margin-right="3px"/> </a>  </a> <a href="https://flutter.dev/" target="_blank"> <img
                 src="https://www.vectorlogo.zone/logos/w3_html5/w3_html5-icon.svg" alt="html5"
                 width="40" height="40" margin-right="3px"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript"
             target="_blank"></a></p>
+            <a href="https://flutter.dev/" target="_blank"> <img
+                src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter"
+                width="40" height="40" margin-right="3px"/>
 <p>
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=Thony091&show_icons=true&locale=en&theme=tokyonight&langs_count3" alt="Thony091" />
 &nbsp;
