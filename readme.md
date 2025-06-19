@@ -1,35 +1,64 @@
-<h1 align="center">Hola, soy Anthony Flores Ramos </h1>
-<h3 align="center">Soy un desarrollador Full Stack, de Chile </h3>
+<h1 align="center">¡Hola! 👋 Soy Anthony Flores</h1>
+<h3 align="center">Desarrollador Full-Stack | Apasionado por la tecnología y el código limpio</h3>
 
-### Acerca de mí:
+<br>
 
-- ⌨️ Desarrollador Full Stack
-- 👨‍🏫 Informático
-- 💻 Especializado en Desarrollo de Aplicaciones Mobile con Flutter
-- :link: Conéctate conmigo: <a href="https://www.linkedin.com/in/thony-flores/" target="_blank"><img align="center" src="https://raw.githubusercontent.com/Dhamary08/Email-Sign/master/linkedin-in.png" alt="Anthony Gregory Flores Ramos" height="30" width="25"/></a>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=tony-g0091&label=Profile%20views&color=0e75b6&style=flat" alt="tony-g0091" /> </p>
 
-<h3 align="left">Lenguajes y Herramientas :bowtie::</h3>
-    <p align="left"> <a href="#" target="_blank"> <img
-                src="https://www.vectorlogo.zone/logos/java/java-icon.svg" alt="java"
-                width="50" height="40" margin-right="3px"/> </a> <a href="https://spring.io/" target="_blank"> <img
-                src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="40"
-                height="40" margin-right="3px"/> </a>  <a href="https://www.mysql.com/" target="_blank"> <img
-                src="https://www.vectorlogo.zone/logos/mysql/mysql-icon.svg" alt="mysql"
-                width="55" height="40" margin-right="3px"/> </a> <a href="https://www.oracle.com/" target="_blank"> <img
-                src="https://www.vectorlogo.zone/logos/oracle/oracle-ar21.svg" alt="oracle"
-                width="40" height="40" margin-right="3px"/> </a> <a href="#" target="_blank"> <img
-                src="https://upload.vectorlogo.zone/logos/javascript/images/239ec8a4-163e-4792-83b6-3f6d96911757.svg" alt="javascript"
-                width="40" height="40" margin-right="3px"/> </a> <a href="https://www.w3schools.com/css/" target="_blank"> <img
-                src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-plain-wordmark.svg" alt="css3"
-                width="40" height="40" margin-right="3px"/> </a>  </a> <a href="https://flutter.dev/" target="_blank"> <img
-                src="https://www.vectorlogo.zone/logos/w3_html5/w3_html5-icon.svg" alt="html5"
-                width="40" height="40" margin-right="3px"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript"
-            target="_blank"></a></p>
-            <a href="https://flutter.dev/" target="_blank"> <img
-                src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter"
-                width="40" height="40" margin-right="3px"/>
-<p>
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=Thony091&show_icons=true&locale=en&theme=tokyonight&langs_count3" alt="Thony091" />
-&nbsp;
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=Thony091&show_icons=true&locale=en&theme=tokyonight" alt="Thony091" />
-<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Thony091&theme=dark" alt="Thony091" /></p>
+---
+
+### 👨🏻‍💻 Sobre Mí
+
+Soy un desarrollador de software con experiencia en la creación de soluciones web robustas y escalables. Me encanta transformar ideas en productos funcionales y eficientes, desde el diseño de la interfaz hasta la implementación de la infraestructura en la nube. Siempre estoy buscando nuevos desafíos para seguir aprendiendo y mejorando mis habilidades.
+
+---
+
+### 🚀 ¿Qué Hago?
+
+- 💻 Desarrollo de **aplicaciones web completas** (Full-Stack).
+- 🎨 Creación de **interfaces de usuario** interactivas y responsivas (Frontend).
+- 🔧 Diseño y construcción de **APIs RESTful** y arquitecturas de microservicios (Backend).
+- ☁️ Implementación de pipelines **CI/CD** y gestión de infraestructura en la nube (DevOps).
+- ✍️ Compartir conocimiento a través de **artículos y contenido técnico**.
+
+---
+
+### 🛠️ Mis Herramientas Favoritas
+
+- **Lenguaje/Framework Backend:** `Java` / `SpringBoot`
+- **Lenguaje/Framework Móvil:** `Dart` / `Flutter`
+- **Lenguaje/Framework Frontend:** `TypeScript` / `Angular`
+- **Estilos CSS:** `TailwindCSS` / `DaisyUI`
+- **Base de Datos:** `PostgreSQL`
+- **Backend as a Service (BaaS):** `Firebase`
+- **CI/CD:** `GitHub Actions`
+  
+---
+
+### 💬 ¿Conversamos?
+
+¡Claro! Me encantaría conectar contigo. No dudes en contactarme.
+
+- **Email**: `tony.g0091@gmail.com`
+- **LinkedIn**: [**https://www.linkedin.com/in/thony-flores/**](https://www.linkedin.com/in/thony-flores/)
+
+---
+
+### 💡 Habilidades y Conocimiento
+
+#### Lenguajes de Programación
+`JavaScript` `TypeScript` `Python` `SQL`
+
+#### Desarrollo Frontend
+`React` `Next.js` `Vue.js` `HTML5` `CSS3` `Sass` `Tailwind CSS`
+
+#### Desarrollo Backend
+`Java` `Node.js` `NestJS` `Django` `APIs RESTful`
+
+#### Bases de Datos
+`PostgreSQL` `MySQL` `MongoDB` `Firebase`
+
+#### DevOps
+`Git` `GitHub` `GitHub Actions` `Docker` `Heroku` `Amazon AWS (EC2, S3, RDS)`
+
+<br>
